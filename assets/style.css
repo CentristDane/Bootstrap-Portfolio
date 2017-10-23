@@ -3,17 +3,20 @@
 	height: 160px;
 	width: 270px;
 
+
 }
-.nav {
+/*.nav {
 
 	width: 100%
 
-}
+}*/
 .card-block{
 	height: 50px;
 	width: 50px;
+	padding-bottom: 30px;
 
 }
+
 
 
 .btn {
@@ -35,7 +38,7 @@ img{
 h1 {
 	color: white;
 	background-color: #4aaaa5; 
-	height: 60px; 
+	height: 90%; 
 	width: 300px;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 }
@@ -60,12 +63,15 @@ hr {
 .card-img-top{
 	height: 110px;
 	align-content: middle;
+	padding-top: 10px;
 }
 
 .card-title{
 	background-color: #4aaaa5;
 	color: white;
 	text-align: center;
+	height: 20px;
+
 }
 
 #sticky {
